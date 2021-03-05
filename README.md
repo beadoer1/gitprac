@@ -9,5 +9,7 @@
 - git config --global user.email "beadoer1@gmail.com"
 - git config --global user.name "beadoer1"
 
-`
+3. log를 확인하고 과거의 git에 checkout 하여 파일이 변경되는 것을 확인
+- git log : git 의 log들을 확인함
+- git checkout git주소 : 해당 주소의 git을 가리키어 당시의 파일을 나타냄
 
