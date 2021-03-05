@@ -15,3 +15,7 @@
 
 4. github에서 원격저장소(레포지토리)를 만들고 연결함
 - git remote add origin https://github.com/beadoer1/gitprac.git
+
+5. 로컬저장소의 데이터를 원격저장소로 push
+- git push origin master : origin(원격저장소) 로 master 브랜치가 가리키는 커밋의 파일들을 보냄
+
