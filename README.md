@@ -13,3 +13,5 @@
 - git log : git 의 log들을 확인함
 - git checkout git주소 : 해당 주소의 git을 가리키어 당시의 파일을 나타냄
 
+4. github에서 원격저장소(레포지토리)를 만들고 연결함
+- git remote add origin https://github.com/beadoer1/gitprac.git
