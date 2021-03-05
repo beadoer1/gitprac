@@ -19,3 +19,7 @@
 5. 로컬저장소의 데이터를 원격저장소로 push
 - git push origin master : origin(원격저장소) 로 master 브랜치가 가리키는 커밋의 파일들을 보냄
 
+6. gitprac2 디렉토리를 만들어 제 2 작업구역을 설정하고 git clone 및 pull 진행
+- git clone https://github.com/beadoer1/gitprac.git . : 원격저장소의 git을 clone('.'주의!)
+- git pull origin master : 원격저장소 master 브랜치가 가리키는 깃의 파일을 불러옴
+
